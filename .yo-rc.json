@@ -41,6 +41,8 @@
     "rememberMeKey": "24796b168a588eb002425127507019d18c11460f58bbe15e3a8181855ef1b5363ddebf1d470a7a006ce4b2c8a27dc5409cf0",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en", "ko"]
+    "languages": ["en", "ko"],
+    "lastLiquibaseTimestamp": 1627351773000,
+    "entities": ["Point"]
   }
 }
